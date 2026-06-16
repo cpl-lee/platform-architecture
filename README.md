@@ -68,19 +68,19 @@ A modern pipeline integrating:
 **Structure**
 
 architecture/
-  platform-model.md
-  ai-intelligence-layer.md
-  governance.md
-  patterns.md
+- platform-model.md
+- ai-intelligence-layer.md
+- governance.md
+- patterns.md
 
 notes/
-  vendor-core-model.md
-  scaling-teams.md
+- vendor-core-model.md
+- scaling-teams.md
 
 diagrams/
-  platform-architecture.png
-  ai-layer.png
-  devsecops-flow.png
+- platform-architecture.png
+- ai-layer.png
+- devsecops-flow.png
 
 **About**
 
